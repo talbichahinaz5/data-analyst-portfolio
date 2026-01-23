@@ -1,16 +1,22 @@
 # Projet Python – Analyse de données (Tips)
 
-Mini-projet d’analyse de données réalisé sur Google Colab à partir du dataset **tips**.
+Analyse exploratoire de données réalisée avec Python sur le dataset **Tips**.
 
 ## Objectifs
-- Contrôle qualité (valeurs manquantes, aperçu)
-- Calcul de KPI (tip total, tip moyen, addition moyenne, volume)
-- Analyse agrégée (tip moyen par jour, comparaison fumeur/non-fumeur)
-- Visualisations simples avec Matplotlib
+- Contrôle qualité des données
+- Calcul des KPI business
+- Analyse des comportements de pourboire
+- Visualisations claires et exploitables
+
+## Analyses réalisées
+- KPI : total tips, tip moyen, addition moyenne, volume
+- Agrégation par jour (tip moyen, nombre de transactions)
+- Comparaison fumeur vs non-fumeur
+
+## Visualisations
+![Tip moyen par jour](assets/tip_moyen_par_jour.png)
+![Tip fumeur vs non-fumeur](assets/tip_fumeur_vs_non_fumeur.png)
 
 ## Outils
-Python, Pandas, Matplotlib, Seaborn
-
-## Résultats
-- Table d’agrégation par jour avec volumes
-- Graphiques : tip moyen par jour + fumeur vs non-fumeur
+Python, Pandas, Matplotlib, Seaborn  
+Notebook exécuté sur Google Colab
