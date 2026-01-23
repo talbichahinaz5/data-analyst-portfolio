@@ -14,8 +14,12 @@ Analyse exploratoire de données réalisée avec Python sur le dataset **Tips**.
 - Comparaison fumeur vs non-fumeur
 
 ## Visualisations
-![Tip moyen par jour](assets/tip_moyen_par_jour.png)
-![Tip fumeur vs non-fumeur](assets/tip_fumeur_vs_non_fumeur.png)
+
+### Tip moyen par jour
+![Tip moyen par jour](../assets/tip_moyen_par_jour.png)
+
+### Comparaison fumeur vs non-fumeur
+![Tip fumeur vs non-fumeur](../assets/tip_fumeur_vs_non_fumeur.png)
 
 ## Outils
 Python, Pandas, Matplotlib, Seaborn  
