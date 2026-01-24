@@ -22,7 +22,7 @@ Chaque projet illustre une compétence clé du métier : analyse de données, vi
 ##  Projets
 
 ### 🔹 Projet 1 – Power BI
-**analyse de la performance commerciale basé sur des données de ventes**
+**Analyse de la performance commerciale basé sur des données de ventes**
 - Tableaux de bord interactifs
 - KPI business
 - Visualisations avancées  
