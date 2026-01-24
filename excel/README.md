@@ -1,4 +1,4 @@
-# 📊 Tableau de bord Excel – Analyse des ventes (Superstore)
+# Tableau de bord Excel – Analyse des ventes (Superstore)
 
 Tableau de bord Excel interactif réalisé à l’aide de **tableaux croisés dynamiques** et de **graphiques**, basé sur le jeu de données **Superstore**.
 
@@ -6,7 +6,7 @@ Ce projet met en avant ma capacité à analyser des données commerciales et à 
 
 ---
 
-## 🎯 Objectifs du projet
+##  Objectifs du projet
 
 - Analyser l’évolution des ventes dans le temps  
 - Identifier les catégories de produits les plus performantes  
@@ -15,16 +15,16 @@ Ce projet met en avant ma capacité à analyser des données commerciales et à 
 
 ---
 
-## 📈 Contenu du tableau de bord
+##  Contenu du tableau de bord
 
-- 📅 **Évolution mensuelle des ventes**
-- 🗂️ **Ventes par catégorie de produits**
-- 🏆 **Top 10 des sous-catégories par profit**
-- 📊 Indicateurs clés basés sur les ventes
+-  **Évolution mensuelle des ventes**
+-  **Ventes par catégorie de produits**
+-  **Top 10 des sous-catégories par profit**
+-  Indicateurs clés basés sur les ventes
 
 ---
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 
 - Microsoft Excel  
 - Tableaux croisés dynamiques  
@@ -32,7 +32,7 @@ Ce projet met en avant ma capacité à analyser des données commerciales et à 
 
 ---
 
-## 🖼️ Aperçu du tableau de bord
+##  Aperçu du tableau de bord
 
 ### Vue générale
 ![Excel Dashboard](../assets/excel_dashboard.png)
@@ -40,14 +40,14 @@ Ce projet met en avant ma capacité à analyser des données commerciales et à 
 
 ---
 
-## 📁 Données
+##  Données
 
 - Dataset : **Superstore**
 - Données nettoyées et analysées directement dans Excel
 
 ---
 
-## 📌 Remarque
+##  Remarque
 
 Le fichier Excel complet peut être transmis **sur demande**.
 
