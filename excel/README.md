@@ -37,11 +37,6 @@ Ce projet met en avant ma capacité à analyser des données commerciales et à 
 ### Vue générale
 ![Excel Dashboard](../assets/excel_dashboard.png)
 
-### Tendance mensuelle des ventes
-![Monthly Sales Trend](../assets/monthly_sales_trend.png)
-
-### Profit par catégorie
-![Profit by Category](../assets/profit_by_category.png)
 
 ---
 
