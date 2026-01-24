@@ -1,28 +1,34 @@
-# Projet SQL – Analyse des ventes (Superstore)
+# Projet 3 – Analyse SQL des ventes (Superstore)
 
-Analyse SQL réalisée à partir du dataset **Superstore** afin d’extraire des KPIs business
-et identifier les catégories/sous-catégories les plus rentables.
+Projet d’analyse de données combinant **SQL et Python** à partir du dataset Superstore.
+Les requêtes SQL sont exécutées via SQLite en environnement **Google Colab** à l’aide de Pandas.
 
 ## Objectifs
-- Mesurer les ventes et le profit par catégorie
-- Identifier les sous-catégories les plus rentables (Top 10)
-- Observer la tendance des ventes mensuelles
-- Identifier les meilleurs clients (Top 10)
+- Analyser les performances commerciales
+- Identifier les catégories et sous-catégories les plus rentables
+- Suivre l’évolution des ventes dans le temps
+- Extraire des KPIs business exploitables
 
-## Requêtes principales
-Les requêtes sont disponibles ici : `queries.sql`
+## Analyses réalisées
+- Ventes et profit par catégorie
+- Top 10 sous-catégories par profit
+- Tendance des ventes mensuelles
+- Top clients par chiffre d’affaires
 
-## Résultats (extraits)
+## Visualisations
 ### Top 10 sous-catégories par profit
 ![Top 10 Profit](../assets/top10_profit.png)
 
-### Ventes & Profit par catégorie
+### Ventes & profit par catégorie
 ![Sales Profit Category](../assets/sales_profit_by_category.png)
 
 ### Tendance des ventes mensuelles
 ![Monthly Sales Trend](../assets/monthly_sales_trend_sql.png)
 
-## Outils
+## Outils utilisés
 - SQL (SQLite)
-- Google Colab (pour exécuter les requêtes et générer les graphiques)
-- Pandas / Matplotlib (visualisation)
+- Python (Pandas, Matplotlib)
+- Google Colab
+
+## Dataset
+Superstore Sales Dataset
