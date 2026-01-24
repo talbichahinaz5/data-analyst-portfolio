@@ -1,4 +1,4 @@
--- 1) Ventes et profit par catégorie
+-- Ventes et profit par catégorie
 SELECT
   Category,
   ROUND(SUM(Sales), 2) AS total_sales,
@@ -8,7 +8,7 @@ FROM orders
 GROUP BY Category
 ORDER BY total_sales DESC;
 
--- 2) Top 10 sous-catégories par profit
+-- Top 10 sous-catégories par profit
 SELECT
   "Sub-Category" AS sub_category,
   ROUND(SUM(Profit), 2) AS total_profit
@@ -17,19 +17,10 @@ GROUP BY "Sub-Category"
 ORDER BY total_profit DESC
 LIMIT 10;
 
--- 3) Ventes par mois
+-- Ventes mensuelles
 SELECT
   substr("Order Date", 7, 4) || '-' || substr("Order Date", 4, 2) AS year_month,
   ROUND(SUM(Sales), 2) AS total_sales
 FROM orders
 GROUP BY year_month
 ORDER BY year_month;
-
--- 4) Top 10 clients par ventes
-SELECT
-  "Customer Name" AS customer_name,
-  ROUND(SUM(Sales), 2) AS total_sales
-FROM orders
-GROUP BY "Customer Name"
-ORDER BY total_sales DESC
-LIMIT 10;
