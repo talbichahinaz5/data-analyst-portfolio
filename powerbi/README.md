@@ -46,8 +46,14 @@ Ce projet démontre ma capacité à transformer des données brutes en insights 
 ### Vue d’ensemble
 ![Dashboard Overview](../assets/dashboard_overview.png)
 
-### KPI principaux
+
 ![KPI Overview](../assets/kpi_overview.png)
+
+![Profit by Category](assets/profit_by_category.png)
+
+![Monthly Sales Trend](assets/monthly_sales_trend.png)
+
+![Top 10 Subcategories](assets/top10_subcategory_sales.png)
 
 ---
 
