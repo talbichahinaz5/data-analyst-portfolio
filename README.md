@@ -21,39 +21,29 @@ Chaque projet illustre une compétence clé du métier : analyse de données, vi
 
 ##  Projets
 
-### 🔹 Projet 1 – Power BI
-**Analyse de la performance commerciale basé sur des données de ventes**
-- Tableaux de bord interactifs
-- KPI business
-- Visualisations avancées  
-📂 Dossier : `powerbi/`
+
+###  Projet 1 – Power BI : Analyse des ventes
+Dashboard interactif réalisé avec Power BI à partir du dataset Superstore.  
+ 🔗 Voir le projet : [Power BI Dashboard](./powerbi)
 
 ---
 
-### 🔹 Projet 2 – Excel
-**Dashboard Excel – Analyse des ventes**
-- Tableaux croisés dynamiques
-- Graphiques dynamiques
-- Analyse mensuelle et par catégorie  
-📂 Dossier : `excel/`
+###  Projet 2 – Excel : Tableau de bord des ventes
+Dashboard Excel interactif basé sur des tableaux croisés dynamiques et graphiques.  
+ 🔗 Voir le projet : [Excel Dashboard](./excel)
 
 ---
 
-### 🔹 Projet 3 – SQL
-**Analyse SQL des ventes**
-- Requêtes analytiques
-- Agrégations, KPI, classement
-- Exploitation du dataset Superstore  
-📂 Dossier : `sql/`
+###  Projet 3 – SQL + Python : Analyse des ventes
+Analyse SQL réalisée via SQLite dans Google Colab à partir du dataset Superstore.  
+ 🔗 Voir le projet : [SQL Analysis](./sql)
 
 ---
 
-### 🔹 Projet 4 – Python
-**Analyse des pourboires (Tips Dataset)**
-- Nettoyage des données
-- Calcul des KPI
-- Visualisations claires  
-📂 Dossier : `python/`
+###  Projet 4 – Python : Analyse exploratoire
+Analyse de données et visualisation avec Pandas et Matplotlib.  
+ 🔗 Voir le projet : [Python Analysis](./python)
+
 
 ---
 
