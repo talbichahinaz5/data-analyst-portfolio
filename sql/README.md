@@ -1,4 +1,4 @@
-# Projet 3 – Analyse SQL des ventes (Superstore)
+# Projet  – Analyse SQL des ventes (Superstore)
 
 Projet d’analyse de données combinant **SQL et Python** à partir du dataset Superstore.
 Les requêtes SQL sont exécutées via SQLite en environnement **Google Colab** à l’aide de Pandas.
